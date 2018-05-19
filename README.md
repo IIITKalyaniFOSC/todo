@@ -6,6 +6,7 @@ Use __Issues__ section to share your ideas/suggestions for the FOSC community. W
 ## Current Undertakings
 - [ ] Website for FOSC
 - [ ] Git & GitHub Tutorial Session 2018
+- [ ] Linux Tutorial Session 2018
 - [ ] Design Jam 2018
 - [ ] Papervault
 
