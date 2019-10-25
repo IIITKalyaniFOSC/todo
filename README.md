@@ -7,7 +7,7 @@ Use __Issues__ section to share your ideas/suggestions for the FOSC community. W
 - [ ] Git & GitHub Tutorial Session 2018
 
 ## Accomplished
-We believe that __development of a software is a continuous process__, and it never gets over. Whenever we achieve a minimum viability for a community developed software, we consider it accomplished and move it to this section, but the work on it never ends. __Feel free to contribute new features or report bug on any of the softwares listed below.__
+We believe that __development of software is a continuous process__, and it never gets over. Whenever we achieve a minimum viability for a community developed software, we consider it accomplished and move it to this section, but the work on it never ends. __Feel free to contribute new features or report bug on any of the softwares listed below.__
 
 - [x] Website for FOSC
 - [x] Design Jam 2018
